@@ -18,7 +18,7 @@ This repository contains practical Cisco Packet Tracer projects that demonstrate
 - SSH
 - Network Troubleshooting
 
-  Projects
+Projects
 
 - Small Office Network
 - Enterprise VLAN Design
